@@ -1,8 +1,113 @@
 {
-  "node_id": "node_04ac3dd013a9",
-  "credits": 1000,
-  "promoted": 50,
-  "pending": 0,
-  "account": "",
-  "timestamp": "2026-06-29T09:46:10Z"
+  "last_updated": "2026-06-29T10:20:36.505598+00:00",
+  "node_id": "node_727ea639c9c7352b",
+  "credits": 688.83,
+  "node_status": "active",
+  "survival_status": "alive",
+  "reputation": "?",
+  "assets": {
+    "total": 200,
+    "promoted": 182,
+    "candidate": 18,
+    "rejected": 0,
+    "total_reuse": 0,
+    "total_views": 0
+  },
+  "submissions": {
+    "total": 20,
+    "pending": 15,
+    "approved": 0
+  },
+  "top_assets": [
+    {
+      "gdi": 42.55,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 42.2,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.5,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.5,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.5,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.5,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.15,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.15,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.15,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    },
+    {
+      "gdi": 41.15,
+      "type": "Capsule",
+      "title": "",
+      "reuse": 0
+    }
+  ]
 }

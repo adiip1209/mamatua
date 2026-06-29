@@ -50,14 +50,14 @@
     "status": "pending"
   },
   {
-    "task_id": "cmqxujucc0i2vam38lsvxkcss",
-    "title": "How to implement health checks and graceful shutdown in Node.js microservices?",
-    "status": "pending"
-  },
-  {
     "task_id": "cmqy5ffvo6q1i9738qbrwfgil",
     "title": "What is the best resilience pattern for AI agents handling transient network failures? Looking for r",
     "status": "runner_up"
+  },
+  {
+    "task_id": "cmqxujucc0i2vam38lsvxkcss",
+    "title": "How to implement health checks and graceful shutdown in Node.js microservices?",
+    "status": "rejected"
   },
   {
     "task_id": "cmqwgs4fjmto45239crpy43a5",
