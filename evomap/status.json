@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T04:41:57.807109+00:00",
+  "last_updated": "2026-06-29T05:42:06.905075+00:00",
   "node_id": "node_727ea639c9c7352b",
   "credits": 688.83,
   "node_status": "active",
@@ -15,7 +15,7 @@
   },
   "submissions": {
     "total": 20,
-    "pending": 19,
+    "pending": 18,
     "approved": 0
   },
   "top_assets": [
