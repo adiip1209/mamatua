@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """EvoMap GitHub Sync — syncs status/metrics to adiip1209/mamatua repo"""
-import json, os, shutil, subprocess
+import json, os, subprocess
 from datetime import datetime, timezone
 
 REPO = "/home/ubuntu/mamatua"
@@ -13,10 +13,11 @@ def sync():
     evomap_dir = os.path.join(REPO, "evomap")
     os.makedirs(evomap_dir, exist_ok=True)
     
-    # 1. Copy node_id (public, safe)
-    shutil.copy2("/home/ubuntu/.evomap/node_id", os.path.join(evomap_dir, "node_id"))
+    # Copy node_id (public)
+    with open(os.path.join(evomap_dir, "node_id"), "w") as f:
+        f.write(NODE_ID)
     
-    # 2. Generate status report
+    # Fetch live data
     import urllib.request
     secret = open("/home/ubuntu/.evomap/node_secret").read().strip()
     
@@ -39,37 +40,42 @@ def sync():
     # Build status
     promoted = len([a for a in assets if a.get("status") == "promoted"])
     candidate = len([a for a in assets if a.get("status") == "candidate"])
+    rejected = len([a for a in assets if a.get("status") == "rejected"])
     total_reuse = sum(a.get("reuse_count", 0) for a in assets)
     total_views = sum(a.get("view_count", 0) for a in assets)
-    
     pending_subs = len([t for t in tasks if t.get("my_submission_status") == "pending"])
+    approved_subs = len([t for t in tasks if t.get("my_submission_status") in ("approved", "bounty_approved")])
     
     status = {
         "last_updated": datetime.now(timezone.utc).isoformat(),
         "node_id": NODE_ID,
         "credits": hb.get("credit_balance", 0),
         "node_status": hb.get("node_status", "?"),
+        "survival_status": hb.get("survival_status", "?"),
+        "reputation": hb.get("reputation", "?"),
         "assets": {
             "total": len(assets),
             "promoted": promoted,
             "candidate": candidate,
+            "rejected": rejected,
             "total_reuse": total_reuse,
             "total_views": total_views
         },
         "submissions": {
             "total": len(tasks),
-            "pending": pending_subs
+            "pending": pending_subs,
+            "approved": approved_subs
         },
         "top_assets": sorted(
-            [{"gdi": a.get("gdi_score",0), "type": a.get("asset_type"), "title": a.get("short_title","")} for a in assets if a.get("status")=="promoted"],
+            [{"gdi": a.get("gdi_score",0), "type": a.get("asset_type"), "title": a.get("short_title",""), "reuse": a.get("reuse_count",0)} for a in assets if a.get("status")=="promoted"],
             key=lambda x: x["gdi"], reverse=True
-        )[:10]
+        )[:15]
     }
     
     with open(os.path.join(evomap_dir, "status.json"), "w") as f:
         json.dump(status, f, indent=2)
     
-    # 3. Save full assets list (without secrets)
+    # Save assets list
     with open(os.path.join(evomap_dir, "assets.json"), "w") as f:
         json.dump([{
             "asset_id": a.get("asset_id"),
@@ -81,7 +87,7 @@ def sync():
             "title": a.get("short_title", "")
         } for a in assets], f, indent=2)
     
-    # 4. Save task submissions
+    # Save tasks
     with open(os.path.join(evomap_dir, "tasks.json"), "w") as f:
         json.dump([{
             "task_id": t.get("task_id"),
@@ -89,18 +95,25 @@ def sync():
             "status": t.get("my_submission_status", "?")
         } for t in tasks], f, indent=2)
     
-    # 5. Git commit and push
+    # Git commit and push
     run("git add -A")
-    result = run(f'git commit -m "evomap sync {datetime.now().strftime("%Y-%m-%d %H:%M")} — credits: {status["credits"]}, promoted: {promoted}"')
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M")
+    result = run(f'git commit -m "evomap sync {ts} — credits: {status["credits"]}, promoted: {promoted}, pending: {pending_subs}"')
     if "nothing to commit" in result.stdout:
         print("No changes to sync")
         return
     
-    push_result = run("git push origin main 2>&1 || git push origin master 2>&1")
+    push_result = run("git push origin main 2>&1")
     if push_result.returncode == 0:
         print(f"Synced! Credits: {status['credits']} | Promoted: {promoted} | Pending: {pending_subs}")
     else:
-        print(f"Push failed: {push_result.stderr[:200]}")
+        # Try SSH
+        run("git remote set-url origin git@github.com-adib:adiip1209/mamatua.git")
+        push2 = run("git push origin main 2>&1")
+        if push2.returncode == 0:
+            print(f"Synced via SSH! Credits: {status['credits']} | Promoted: {promoted}")
+        else:
+            print(f"Push failed: {push2.stderr[:200]}")
 
 if __name__ == "__main__":
     sync()

@@ -1,5 +1,86 @@
 [
   {
+    "asset_id": "sha256:ca6121035bc043e2496d97c2b3d610abd8fbe560e918739d08eaeb68f52aa180",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:0df1830ae080bc1c6d93ff120a814b1c7e525e9d23b6e95a288bae66d7b2990d",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.75,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:71d925633564d880a8405bb1f261fd0ab10321b455e3a01eaecfeb191e767b24",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.3,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:4f4dbfea1e50571323413c1741ca7f4e14632313374d1c6a6a405ae6b02677cf",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:1a8c4cb0f5bbf8c2590acdb0f03a6d55622fae54c483d571aa2e0d91fdd23a12",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 40.1,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:907e8d3c35608f303fc168e101353b37319cce994d2c09c7c72c4a307424ec47",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:33f9421ca80632384b139df6c4a63ea54b29bc27c38425de74538303c2612b84",
+    "type": "EvolutionEvent",
+    "status": "candidate",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:d0c6f945ac29defeb96d3f01f39f087b43444f4be87ecb48989194a2e547afe9",
+    "type": "Capsule",
+    "status": "candidate",
+    "gdi": 38,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:585f67befefdf6d339f85c3e5a4797e951e4e6b86346ab68cc38ce744a52a401",
+    "type": "Gene",
+    "status": "candidate",
+    "gdi": 31,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
     "asset_id": "sha256:b5d7eda4f4dd92af4c25807dc33e8e39266339dc6771e2278066ac8ba2d16153",
     "type": "EvolutionEvent",
     "status": "promoted",
@@ -1714,87 +1795,6 @@
     "type": "Capsule",
     "status": "promoted",
     "gdi": 41.85,
-    "reuse": 0,
-    "views": 0,
-    "title": ""
-  },
-  {
-    "asset_id": "sha256:a4a1784bfa0d4b7e829fc7e13cae5151710797ead27523d291c861d6a48887a3",
-    "type": "Gene",
-    "status": "promoted",
-    "gdi": 31,
-    "reuse": 0,
-    "views": 0,
-    "title": ""
-  },
-  {
-    "asset_id": "sha256:8b238152c0b30a26e61a9864693308274419bbd67bbd09eddc5a505587f31b66",
-    "type": "EvolutionEvent",
-    "status": "promoted",
-    "gdi": 27.5,
-    "reuse": 0,
-    "views": 0,
-    "title": ""
-  },
-  {
-    "asset_id": "sha256:b3ea9c3c5c2efe8dcb212d7e45b1007674d91baab7960cb6ee7e3a525b417f66",
-    "type": "Capsule",
-    "status": "promoted",
-    "gdi": 41.85,
-    "reuse": 0,
-    "views": 0,
-    "title": ""
-  },
-  {
-    "asset_id": "sha256:c5b3b8787bc7780725e2dcc9ba9d09c8a46a1b54c3f274b170020e1dfd06790f",
-    "type": "Gene",
-    "status": "promoted",
-    "gdi": 31.7,
-    "reuse": 0,
-    "views": 0,
-    "title": ""
-  },
-  {
-    "asset_id": "sha256:183f64e75b7c945f627edd0ebca9891939f96dfe4c43d5e4db273dd13cbeaded",
-    "type": "EvolutionEvent",
-    "status": "promoted",
-    "gdi": 27.5,
-    "reuse": 0,
-    "views": 0,
-    "title": ""
-  },
-  {
-    "asset_id": "sha256:778c845308d0e8c3784eb49e3710459b506ea29e09cad98df477e52ed9d33e5a",
-    "type": "Capsule",
-    "status": "promoted",
-    "gdi": 41.15,
-    "reuse": 0,
-    "views": 0,
-    "title": ""
-  },
-  {
-    "asset_id": "sha256:fade9220795e47ce13209974fae637780660d8b56b1088c33ee706c82d29709c",
-    "type": "Gene",
-    "status": "promoted",
-    "gdi": 31.35,
-    "reuse": 0,
-    "views": 0,
-    "title": ""
-  },
-  {
-    "asset_id": "sha256:293d2ac0e55e2c99f519156218deb4148c8606cd3638e7c513eb9474d1c53986",
-    "type": "EvolutionEvent",
-    "status": "promoted",
-    "gdi": 27.85,
-    "reuse": 0,
-    "views": 0,
-    "title": ""
-  },
-  {
-    "asset_id": "sha256:2cf2f828bdd98120d44ef1d6724941f29fd9a03c28b182cebcb6608d6ad428f9",
-    "type": "Capsule",
-    "status": "promoted",
-    "gdi": 40.8,
     "reuse": 0,
     "views": 0,
     "title": ""
