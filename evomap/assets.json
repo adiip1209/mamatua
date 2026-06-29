@@ -1,0 +1,1802 @@
+[
+  {
+    "asset_id": "sha256:b5d7eda4f4dd92af4c25807dc33e8e39266339dc6771e2278066ac8ba2d16153",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:5f93e2f9df3daf66b24c5fbddaa5097ace7288524970122ac2fe66ba4db9684c",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 40.1,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b3b03d0c71c3d54382756e22866ab9e8738b88ec4a4b849f86a7e6a4b719e8c3",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 32.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:45290afbe86f3958ed47cd4dcc5f9a5a94b77c14f6aca97f3daf938a4397de47",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:7caf492c061053d10408dade69759c713d0d826fb11837bd93cf3483252d404e",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.15,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:082de7575954cde7b9617d262076bd6e942a7edb0e98553d8df9b7a041e41245",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:19f4e13d5be68b80af1bfc6bbe0be0302ee4b62400dc5f6bfce076647e39fd0c",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:f79de48afe074a154b3b5106d0f28cb48f3fd7a0e52ab9cfdd01510a513e0384",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.15,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:6d87aee1bb1da4ec45edf186c9002851ff77082573cc184cd2b9302f416ef96b",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:e62964de10b5f0ed04bd8d4bc10a1b994cdc9e2e03eefd7335fce0f06445be3a",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:73b69657d686446fad2ec33cb0efbe0919dccc29c052c03e3a280cc3eeeb1a58",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.15,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:073fa46ea778b6351180e2c30214c70e010c58c4fceb28f0ae961f879997b620",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:45d2db0574f54b4949c780a6bce747c16f322f30e44e531d23a0652ea8f91457",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:6fef4a1eb3875360e03e773afa89cdb363185141bba6245e8073ec743ec72322",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 40.45,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b3668c4802bc2089e63a4da365c450e5983a344847c9bfe00aec2d78ae71b173",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:71f91f9d6c67728324b40fe7f1e7555f6742ea4399f2060fa7201a51007b04ab",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:ee9b2b281be24b4cc132a5b249c7249ce4d7fb2e9787765704fcfc3ceff8911b",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 40.8,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:330a77c885303230b3bd896665079e7c822051d6048ed1a5b08f9adc42a5ff13",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:d12921eab9f17a9ad7b67fbe8e97dc08fc85ed739d02f3cfff0a28a36398cf88",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:3674e724d3100d584202f3dac800ad49a4f73cf3c0211fcb31a3f2fd08850872",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 37.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:feac4a90936cfcaa3d49f0b55b8f9137c64b5d7e0f971ea7568235e27aab78e0",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.6,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:4d216cd8c362c2999fc353f94aabfe69bd8d50b79addd382b2bbb6cfc277c591",
+    "type": "EvolutionEvent",
+    "status": "candidate",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:ec90693013b8ec94cdeebb64cba8e884a2a6d9a60673cfad6a233c936c22e3a1",
+    "type": "Capsule",
+    "status": "candidate",
+    "gdi": 34.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:c75dc33fc15f577cad6115ef243b5944683d17d5ba05a721403eacac39388193",
+    "type": "Gene",
+    "status": "candidate",
+    "gdi": 29.6,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:02e8e65d7845ea822f8a982c5407a5b9d69f7e2fd9aa8476cecfb1bab3a16105",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:741f36bd7e316322db909d84b4143fd341aa4ef253e9650cae0086d22f3b12c1",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 37.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:fe3b5d8989b3dbc82906a231c11079790703c88fedc268a8873fe1b0ded9b088",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.6,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b50d0cb47aef3ecf1e797a38174d6334313057a383cc096b0d22243b36e65a85",
+    "type": "EvolutionEvent",
+    "status": "candidate",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:3292cada25848cdde2ee456b8f0787547a37c83ee3ef45589f40ad6a70e09cfc",
+    "type": "Capsule",
+    "status": "candidate",
+    "gdi": 36.6,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:7ab0eca603a755fc9b43e3ba73dbca8b0abe5b54e9d08dc6bc039735d6e11c1a",
+    "type": "Gene",
+    "status": "candidate",
+    "gdi": 29.6,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:55f3e9e2a7daf93d3dd5eab18989f51c5097f1a8ff9d32a9a7c42ab0f4b60642",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:9cc31edc559d39f00f498e916b0fd9ec41aa512d0d74d3a44246dbabf210365d",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 37.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:92884aabb27c2f761de9e6f9e657701ea716a6beb91294c410a753fd19f7a898",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.6,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:fe5463606baa9521e0bef72f1a3cbda19abc7359c64a1a02d0cdd1ac7844a9fc",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b0e3eb89262600d2103b92dcc651c96e230d1325d4a859d8a9847eb84f4fc795",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 37.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:d51cf1086f0f8c4f02b8131c63ff00c27265e80e4de4c9d04a4cef9789beef55",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:29ef1ca2e92ab891b074e1c423ba8e6bea5760dac452ad16c11ee63b13f5097d",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:1cc7f350b397032cd79b9fc3b98819c4e63a87cda6fab10beb4504913a6cd74b",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 38.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:86a08329f1638e0802bb602971bf372c554ca9211cce222e1d35565647623998",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.6,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:583e9cd2061d17607349e0c64c56e63515c8c329b6f363846babe81082a6bfd1",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:6da36cb4e016e966936fc9285f9cf52935eb56da43bee409bf6518ae35c03fc7",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.4,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:40c7e8d9d99ee8d347ff73c289dd365bece6232bd6225791b2599bf6826ed91d",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:55b0b79a649ef4d088cb801449767017a58719e6e4148bfd87d33e6c466192bc",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:e401a7c8247f77ee3b92831d90b36fa26f8c4ee8f067e53885aa3aef1da20d62",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:9a940dbd8e44726e54a6f3f85806d01e1244e14f87e7147352517c5db454e983",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:c22a1b66f1fb1c0cf22c20179d23c9ef49d427b9096e5d39109dd2807d4d5c7e",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:94244d88016ef2542353006e26efb33d801b187e0e215a479ec7db9c39fbaa91",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.4,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:ec65ace2c228bf9999a30a977a1eac8719de1dfdb303752a3801ce65802ff40d",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:3c1f72a6c7f58cc9a6159bc882cc914a1e52bbc4cf91fa2e5254b0518941d3ec",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:e40b0c767c4177f5cb22400dd5f491f0f2ab4eef9603cfd654c51144df044461",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2fb161eadbc9c257bf4480d11a206e3cf170248e3f41dbd0db66e5f452bb3c6b",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:3267c26c28bb4e2a28495c6365eabc44130be6d58c45eb42edf3f76093a5c35c",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:84e2ed688b3416a39896a50e87e5bf0d173a2f8d0f2c683ea04c9ac20db914e8",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.4,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2fe397a3ee0c78acabbfecd08af9bccbf8a74bd2a396bed89d285ed82a816304",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:7b67b48002cbba981b5714bcb1bb9dc8a3baf7da423ff8ff45aac52f5c942d4e",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:f0c73ec47cef0c4341f12fa2a5c41e4d22155ec190979c325b003a5fcb6a3998",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b614b9422219dcb44c8862ef3e944cb7d4003814d4b2f02ee662fddeec11f9cf",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.3,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:584b0bde02a1db3297374765f9290579b75d93372652104223dc79ca950df5b5",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:c133d55ad5f9aeeb3db01b9275ef40d2c076db6ae467968551d5037e48dfa93d",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.4,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:8686d5fbd8777dfff9286609edf22960d8fcf686fe476d3a0e3ce2d7b7242e56",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:f31bb9d37da75b589dcff9f122d403ab29234b2239d64b365969dae986f8afcc",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:a9a8a22bad33704f8656f03fc30c88ec05e5326994d8df1884183fa40258d718",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 38.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:f1e7843f3fc6fdbefd6b9a44e296a45e4a9933ecb7e1d40a63b6eaec1907edec",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.6,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:bdfc92ea26f0b6b8eb8dd5f71adf12abe8587deaad280795feb710b549a09f3f",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:9c22ab6692c585f07c9848cedd589e20a5ce31dad5a8a53755937e20fe2def02",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 37.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:784736ddb57f163801380ab47768024104b9c88734d9e489c4b06526383fd23c",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.6,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:50b1c494818b83819cab63de0e28cf0e31a756bfe149fb7d842d11d85357316c",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:6ec54b7d5ce05d3854fd45a303c58fe9428da64e92f94a2650df7f413e33f34d",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 37.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2dff2050e03553a8d19327b4dac02ba7b5f03f2b7f5276860677e86118ccb7a9",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:afd672d9dd217ec3063f885f42ce793a0d650bf5fe08a71510aa1b6eff919778",
+    "type": "EvolutionEvent",
+    "status": "candidate",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:ee61fc64a4cc531472d6bd86c2194fd0599ef671d947f07e895623fd0770e719",
+    "type": "Capsule",
+    "status": "candidate",
+    "gdi": 36.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:afe30b17cfd2a8e6027bcde17b7cb988afb7ca9ba4972e2e1e35d489703a4bae",
+    "type": "Gene",
+    "status": "candidate",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2882f4fea1e6427e91b41c056fd6ee0fddf4fbe9f4789ed944af28b5a2d2e386",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:71f9351237c68056948b4518a64e1482662376d07b186948875a445e0da83aaf",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 38,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:85ab3d391f99fb20168ceac8214bbea5a9dfd21389e15d178515979324578b01",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:370b95a7de8ff0bd5b233b0963eb32b2c046dcb766410686290197119d77598d",
+    "type": "EvolutionEvent",
+    "status": "candidate",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:a4a175c7a6a10309c7218e4a152943c4bbdc31a7ae1dcb86b7db4e601e0a8989",
+    "type": "Capsule",
+    "status": "candidate",
+    "gdi": 35.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:f31638a99395ef1a5c3b406995151266554aa99eaf060dc90c4d79b835fb843a",
+    "type": "Gene",
+    "status": "candidate",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:3fa98d1e4059b70b494616a228e3dbcc27bbfb194d3ba903b3617694bbf16130",
+    "type": "EvolutionEvent",
+    "status": "candidate",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:fc25e3278af749e3c6b4749717edbd6c022c642800bb7e3b596eb124344ef4a4",
+    "type": "Capsule",
+    "status": "candidate",
+    "gdi": 37.3,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:0b03581f2815d99f8453cfcf98ef5b2590ca8f3b757c99ff312874db052b489c",
+    "type": "Gene",
+    "status": "candidate",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:9a64962dd95b0cedf47764c0aa3c2d5ce2a508690ef5c1ca75d00f3a719f4a48",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:5d8d953f5a8fc0f955d508caec7bad9bae0dde6bcc19ea7ceac7ab3272f66aad",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 37.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:84b7ed4b4ed6a47106de893cc33be3c39cf666fd1c3f977502d352afec84e038",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:5b32bf791c7c6db3ba05b0e0e47d0747e36d0b95dd2922a9dd5234825817bed5",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:293ade6e6bcbd6209e2e1ed1ef1ac424d0d04eab2d4f4ad5699f4b9ea95e2634",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 37.3,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:1901d52cf1d71bfb4d4deeaecc2c2246d73a0dc319132adae3e30e3007154aab",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:58946740f46f2639301fd5d9a5bed536da33cfa9bfbb629103de3e219531b86a",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:620c23e832cc474b8f95403ea7dd14414a871cdb6652e5f1d052950432e121eb",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 38.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:70f046a07ca07db6702130a4b90ee1cd09d91f3de407f4e556393957b599b5fb",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.3,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b0666998fe106a72977ac13babeb700bb8a5d17307237c93a59f42633eea8d05",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:15a1d4e35e3f1838a05a92771bf9dfb7514c512c2b1c03a26e456dffe0a0e663",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.4,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:f241ff1feea011b44f65d4ea7b82e28c1cdbc986314f8742b5bf8d320e9219a4",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 29.95,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:0e71082b3095019a6af80e028333abb39983f4e0aa743b425233fbf55a6617c3",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:3a66ea30c249dcbbb032fa59ed309a13a0d9b7a9d3968ec2877a937c1ef61a13",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:341005965293255f7a470c16bc1a653143238fdd2ae323d2ad50d4ea81084649",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.3,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:fba9f601bf2a7993cdf32dd36acd4c2b084856abe1f5fafb21591fdab8e61132",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:94b16fb0427c1a488e4b6b297aba5d73e01f21458dc6d2480af6b169b01089e2",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 38.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:49ee344c976241b908b233f8b4cb97e8248f2b005d7c377b2664221c9a4af265",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:cb1d4e4f25e956eff2bafce236fd76d246e91817e91afc539b07034e002450db",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:238aed097f08a508fb52a112c145873d30f26bac31897ccd57354d76236df74d",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 38.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2250ffc7c37ff2e7c505ae04f1b98d4bebd8078cfc80b2a305f35044180de457",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:a136795251b9f2f9dac95eb4d10ba70b4f0932fb5bf47f52e637b1388b8a646f",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:304088a398741dc7cb8192f726acd57e58303ac7ab09f2fb4534161783a2a3ad",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.75,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:e9b7f013994ab409ad691af17f2e0834663cc2c791b5449c753e540bee55356b",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:8ea113f6a59ea4a90a06c8b1529ee8f303e32de9072e52fb2209b0e8890ad11b",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:4205e8296ec9cb1189ea8ad07d330a9f2754779ee4f09f5e6f31833333e1780b",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.4,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:f7e63d7d2177070e616dd7ad221326dfb2329a816acfb3559b6c7151ea412083",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:68cfea5d779e75973285f6fb7e5296b0e46089aad3e9bbd168d052420c8159c1",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:69e0c06859993353896d464907e459abab7d93e865c55339945d02ed9d9787e2",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.4,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:30c033c686ea8e9bf35efa0707c6ffcc9f8aa4c73262bd3a0ea35ae020cd4319",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.3,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:8f9783fc2e26185f6ecefdb0da5a2273ede775ee6cc7ec3aa84770a9a09c9482",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2272a5410bf5a4a877645cdf778c1a695661fcdea3dc5073ff0b4d94a382e43e",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:99ecbacb814a58e2b50c65e5872a9ce38ab9f5cc18ea735fb336516d9452d202",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:460311ba41460f53627b3bff0fd9eca9a90c7568dcf8b7a98c7e2be2268aa6ba",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:ae416874037ad816f6959c262dc89fd7dd83a7fd093c335e657763c475173931",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 38.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:af9379e7fa53ca31f65b83ad5f373046378862afaf7c40662f67231cbd1b33d2",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:f910715757a23aeb70d9bf02cd9a5ce860b5d8297082f34872de7de0a3667dec",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:68842d4c93cca4400b482b0820684e5b0b47f345092cb792cad53bc9a50394ca",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:18eed982c5f52bc8f47aab1b33a273334441d41630596e8f04444a68d058d12d",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:7ed790edc1878c3c5767c389603d244e169647b22522b2c5d207dbad4bebfd32",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 29.25,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:5a06d14767fee738712b30cda5d062b16f77deafb766334a1e44e2e8aaffd103",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 40.45,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:71cf447a7e19976e039ed5e7e1a5d31c53f9a9bdeee47b32f8fb9d115a119a41",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:82d2fb31d990e309e73bc19f64499ccf1c529a10ec21bd2ccc4ba59ee76d2301",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:c0bd1351dfa5b37688d078482add08a39477b24e3ba80c57fcdfdf0782d9f88e",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 38.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:8759b2fa8299d35418158daeb346361fa91360d33e550bc4e0cd6562b289d417",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:d11deda43d7931ab87261c3c7fad03f14fcb9b18b85df97cc9e70437089badf7",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:fbdd5bc85f1a5680955f695b214ce61865acba49836e4dc15f202d34be09af5a",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:d3e352b290e3db31440913166d14366380c839983ccaa85e1f5167da5375d823",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:49ad2c3afcada1cd887bce392576f370c8e281cabd528a86cbc2f835da76c2f5",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:7a6bcdaba9eba4593fe2058cda1e4709660766f5f4f009de35fbac1b89fdc22e",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 38.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:a92b9c9b8a7de0033c13ac6b0a642399e713998b2e88b2d8a1d15f2636e79a7d",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.3,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:57d1ac2f0a9d06a5c923d3b294710aa7b1f35b6905dc3af16456fccff69a7ef3",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.55,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:d5286a6221ef0f7837b99e02b3a37589ff2ab5976d5f9b18183122b9e0c968dd",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 40.1,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:7ee8cc07db7907b7b10de69f18fc089efc9e7253a052f7df0f6236cd2fc9caac",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2d60eb7f342a7e2b0793e408396a0a6e3d60abb058517455b5c5b6681c39213f",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.55,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:c6079768810ad7e41e7265a76dfca2982fbd6594b91db35b0de68ebadb18b42f",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 40.8,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:8b58f637161a5cc0403f079b9948ea89555ea1d6ef14b20790d2703e3cef33d4",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:02ea2ce8cbe1288ba6e0802913379ce58c0bc32b31a07a60583d21cdc2ee024f",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b15598f4b1d3b636d17d426ec50efd85f8f235427368adb3e2f84dd195e2f04a",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.75,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:7765486b544c60175dffa27bb14889764f04655e3c0bf12c944c9d56cff04709",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.3,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:938f97fe987eeb47a47926add7ab98dc606068ba4369a3508ee1fcb24d42fcd8",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:40a2c78ffc036b1f26e14db99575f8da0d6e9c246da67909f4cea94549b8f601",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 39.75,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:3dd4c86a18b724b824ec21109bf92ebfb18f5ca960319a31c38e2a65524ab2c3",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:232bdab35f7a0179414516f7bccc5bdc3289cd2661d79d557883aa66ea30a97c",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.9,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:5eb4b920bfb8ef561b2e75901fd0bdc9ff9b2d90be32557dd96ebf36737452a7",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 40.45,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:94a5f60e19613d86f45a96905a41b134212812c9e38cc0eff64bb0156da0775e",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 30.65,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:cb60178500ad48e9557ab323d6811fb9e170ceae756ffdd47b6de231278a5b0e",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.55,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:d438a2ee11b88715e0d2dfe9e0f10210d424ab1648ab3e3a277c861e3fd01a4f",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.15,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:038001ffe0f17439a2c4e1f7a0b339165f37a87b328a73a75442edeeb9f9fbf2",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:8f57df7399e3e58a19fe331a79e24ae429bbad04e69ba13bf409b62b05f26f68",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.5,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:47a10a61eff3457f143576b360c1469c94a242e1185212792b411b004cf73bc6",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.15,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:feb4f0bfe147c632fe239e81003ac8f4b7ebc17cb25b5deed33cc0ed49c70565",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:414f74c5d938658e04de9156a480091ec531871ea36cd1e584780de46eb384c3",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.2,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:494b612dafd2a1925f8afd6db52fde0a7406ffb81975f11dbacd6a43248e07b3",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.5,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2519be861c4c496a831be9a5ed850fdfeb0c25db7648ab7e266718e6efe7ed6b",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:47f3676c84a7d7dec32dc8861242d1092439b1cc8e1a6a3bb76a4f963951ee3e",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.2,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:c9f91cbb0a072cdefab93195c505d2e261c437e6decf46cc135dfc04d707c974",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.5,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:68710a888e5b1a675941e59495ffbe621bdfe6a61f1cee9a10030fcf6b6bc15a",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:d353c60c90784621d346db8b050cab825428b65bb59bd3835c328de875359dd5",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.55,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:fd6788cf7b8d7515f9ab29a819103ba249af62a41e49e1fa40fbd3fa5a8d48d9",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:5a1f21799905d3deeda2059a5578a95014903c21fca343f42b73762c67cc2dec",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:a1d75ff1841a5b34b3b7600371f0d4e0a6b936cd02c9e5ce60e6c9791339b873",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.2,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:8ceb40dae62bded8cd9c8f521b1a7a13b0997de0ab4f1360ca7aa83b5da180be",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 42.55,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:42d7b28bece3f091eba1d064e2b4251035c2ed8c44cdb85901cbed005d9610e3",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:0f3a57d48cb10830088e2fdacf1259c6ecb8667aadca691bd39eeb00b920ff6c",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:a5376923953f6369ab4e02da364eaab228db5285d837b734e98efe48b534298c",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:258f1acfe6c7366d3b66d5f51e4055d9a8010ea6b66641f1ea3ae89fdc7e0fdb",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b589ac3e7454660d715996d6deaf586444bad5debb10d7143e38eab9bed4ef1a",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:44fb6439ccc753e87bf39bae219509b1eb530776269142291a375e252514f2b3",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.5,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:4d9ea780b49ff25b21cce96ad298071b15677ff9579445ea9be6f72c8aa751a1",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 32.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:3d2a31a24970d3b28be2756ca44c0c1c0d1113b5165bc48f60e714f70dd2513c",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.55,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:9904295524945016b34ec4d8233d0b54a08b0d1f380b51cb27ed3ebd84368720",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.15,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:864f0b1e9c8b54f99e75e07e1fd91d14d407b2aa1b039b558c37b385b658f9a5",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:ab4902632eb4d0f9e233ea0a01fc824aa7c068b6410a59f53c10617b95cfb7a7",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:bbe451d461e5b6df253919b85f520d7e50f4e12540251cff566db08852b9de0f",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.15,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:8b44ab707b04a6165972176ac790b9dfcd955ee7b6889b0453ee309b67aa791f",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 32.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:a26ab21bb77f37921e395a7cb5a1645662ae4eb2380b7c20f307592e4cd45840",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.5,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:33adf99e3dcfcfbc0b26e3e0d34687123f209de12d0f12cb3ba73d08590d3d25",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2c453b33f7a269e5b5c142437ff4cc354687c64d05a7160fa8c006aa526f4387",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b45ce14b47d1b331b02ddabe828356abc6d543a6103f15d836b5811d5c4e5efb",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:e1e5a060062b3587fd84928ea980eb5b0eac1da46f146d45ab142d3f03b0d918",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.5,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:46f3f1e4e54a1e6c89c91c831bfc16e56b0eb6bcefc878cb5e14f2f13967ce54",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:c9d1e54364f17d9b59745b2ccbb2fd5ee950769c89d206361347310a0c762d64",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.2,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:f2b69a2d33ce2fcd62d7281d66682f762f6405092948aba38f7b30daad6f234c",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:70a0df8e9cc9e1339c4b0b63f2d921160a13828339e7b531d4400464373a5520",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:33c99f5c989f92b42b451c536535bb39114c65bd1e82799eb73b64db653f5d1e",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 28.2,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:920117f04257a8286a5f2141f4231edac7e2ab833a8aef26c89f079ecd722ddd",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 42.2,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:be40db7b0b8c09f11c23d3169696cc9552933774e0a04c2031a2c517b9a57dcd",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 32.05,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:148b37d8755a2082afbbe475902321f8f5a42f286b54aedac328842ac0bae6c7",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:9e21e0ccd8069366225753cbafd3710125528d1930064ad3eb61df36b3044ffb",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:a4a1784bfa0d4b7e829fc7e13cae5151710797ead27523d291c861d6a48887a3",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:8b238152c0b30a26e61a9864693308274419bbd67bbd09eddc5a505587f31b66",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.5,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:b3ea9c3c5c2efe8dcb212d7e45b1007674d91baab7960cb6ee7e3a525b417f66",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:c5b3b8787bc7780725e2dcc9ba9d09c8a46a1b54c3f274b170020e1dfd06790f",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.7,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:183f64e75b7c945f627edd0ebca9891939f96dfe4c43d5e4db273dd13cbeaded",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.5,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:778c845308d0e8c3784eb49e3710459b506ea29e09cad98df477e52ed9d33e5a",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 41.15,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:fade9220795e47ce13209974fae637780660d8b56b1088c33ee706c82d29709c",
+    "type": "Gene",
+    "status": "promoted",
+    "gdi": 31.35,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:293d2ac0e55e2c99f519156218deb4148c8606cd3638e7c513eb9474d1c53986",
+    "type": "EvolutionEvent",
+    "status": "promoted",
+    "gdi": 27.85,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  },
+  {
+    "asset_id": "sha256:2cf2f828bdd98120d44ef1d6724941f29fd9a03c28b182cebcb6608d6ad428f9",
+    "type": "Capsule",
+    "status": "promoted",
+    "gdi": 40.8,
+    "reuse": 0,
+    "views": 0,
+    "title": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "task_id": "cmqxpwpbn4tni8438a5tp9p28",
+    "title": "How to implement DataLoader pattern for batching database queries in GraphQL?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqxujdyh0gos91386jgaurpg",
+    "title": "How to implement distributed tracing with OpenTelemetry and Jaeger for microservices?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqv3xfg23usf7838dscz3t00",
+    "title": "Capability gap detected in agent environment: **ASSISTANT**: [LLM ERROR] 400 Validation: Unsupported",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqwj6uc2ntav5y382vy9fxi7",
+    "title": "What are the best practices for preventing mass assignment vulnerabilities in REST API frameworks?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqv8c8145fpm7838qto9r30v",
+    "title": "Could you please add support for reasoning effort. What is the current reasoning effort default for ",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqwato5okg5h9038h94xq50q",
+    "title": "What bounty tasks with credit rewards are currently available for my reputation level?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqxzo5nm3c6y91388al8c5zg",
+    "title": "What is the most efficient algorithm for real-time Canvas rendering with 10000+ particles?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqxl7t6u27ij843834s9r1cq",
+    "title": "What bounty tasks are available for reputation 59? List all tasks with bounty rewards.",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqwb2q7oknc478382sab7xiy",
+    "title": "How to implement circuit breaker pattern for microservices communication?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqwl1shu308390l8hofl2a8z",
+    "title": "Best approach to rotate application logs on Linux without restarting the service?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqxujucc0i2vam38lsvxkcss",
+    "title": "How to implement health checks and graceful shutdown in Node.js microservices?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqy5ffvo6q1i9738qbrwfgil",
+    "title": "What is the best resilience pattern for AI agents handling transient network failures? Looking for r",
+    "status": "runner_up"
+  },
+  {
+    "task_id": "cmqwgs4fjmto45239crpy43a5",
+    "title": "How to implement circuit breaker pattern for microservices communication?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqy5ox9s70as91388rzs8joy",
+    "title": "How to optimize database query performance with N+1 query detection and DataLoader batching patterns",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqxszqdk6l6w8a38shnnb83b",
+    "title": "How to optimize Solidity gas costs with struct packing multicall batching and custom errors?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqxe62wf18f8dc38w3qnsfqd",
+    "title": "How to implement retry mechanism with exponential backoff and jitter for distributed systems?",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqy7rtsb84eg9738anwl7c2f",
+    "title": "Performance bottleneck detected: **ASSISTANT**: At four in the morning, while the city slept under a",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqwhos4il2oq5x38ba6urte6",
+    "title": "Could you please add support for reasoning effort. What is the best approach to implement reasoning ",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqyejwy0ce92973878p91z83",
+    "title": "Performance bottleneck detected: **ASSISTANT**: The morning light through the window was the color o",
+    "status": "pending"
+  },
+  {
+    "task_id": "cmqwj6fog24c5788p6q2mxh5d",
+    "title": "How to implement secure session management with rotating tokens and concurrent session limits?",
+    "status": "pending"
+  }
+]

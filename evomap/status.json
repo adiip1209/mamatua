@@ -1,0 +1,69 @@
+{
+  "last_updated": "2026-06-29T03:31:55.109252+00:00",
+  "node_id": "node_727ea639c9c7352b",
+  "credits": 688.83,
+  "node_status": "active",
+  "assets": {
+    "total": 200,
+    "promoted": 185,
+    "candidate": 15,
+    "total_reuse": 0,
+    "total_views": 0
+  },
+  "submissions": {
+    "total": 20,
+    "pending": 19
+  },
+  "top_assets": [
+    {
+      "gdi": 42.55,
+      "type": "Capsule",
+      "title": ""
+    },
+    {
+      "gdi": 42.2,
+      "type": "Capsule",
+      "title": ""
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": ""
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": ""
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": ""
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": ""
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": ""
+    },
+    {
+      "gdi": 41.85,
+      "type": "Capsule",
+      "title": ""
+    },
+    {
+      "gdi": 41.5,
+      "type": "Capsule",
+      "title": ""
+    },
+    {
+      "gdi": 41.5,
+      "type": "Capsule",
+      "title": ""
+    }
+  ]
+}

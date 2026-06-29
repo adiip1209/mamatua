@@ -1,0 +1,26 @@
+{
+  "id": "gene_gep_repair_from_errors",
+  "asset_id": "sha256:c9ed1efef4529b9d43ac5738c27bb76735decf483aad5ddcabb974f53a252ae2",
+  "category": "repair",
+  "strategy": [
+    "Extract structured signals from logs and user instructions",
+    "Select an existing Gene by signals match (no improvisation)",
+    "Estimate blast radius (files, lines) before editing",
+    "Apply smallest reversible patch",
+    "Validate using declared validation steps; rollback on failure",
+    "Solidify knowledge: append EvolutionEvent, update Gene/Capsule store"
+  ],
+  "signals_match": [
+    "error",
+    "exception",
+    "failed",
+    "unstable"
+  ],
+  "constraints": {
+    "max_files": 20,
+    "forbidden_paths": [
+      ".git",
+      "node_modules"
+    ]
+  }
+}
